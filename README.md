@@ -34,7 +34,7 @@ This project is a C++ implementation of the popular 2048 game. The game allows p
    ```
    OR
 
-   Install the executable file and enjoy it :)
+   **Install the executable folder and enjoy it :)
 
 ## How to Play
 - Use the arrow keys to shift tiles:
