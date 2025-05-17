@@ -18,7 +18,7 @@ This project is a C++ implementation of the popular 2048 game. The game allows p
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/2048-game.git
+   git clone https://github.com/basemw0/2048-game.git
    ```
 2. Navigate to the project folder:
    ```bash
